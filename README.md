@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/VIBE%20CODER-FF2E63?style=for-the-badge&logo=probot&logoColor=white"/>
 <img src="https://img.shields.io/badge/IT%20SUPPORT-08D9D6?style=for-the-badge&logo=windowsterminal&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/QA-6E40C9?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=userozays&style=for-the-badge&color=FF2E63&label=VISITORS"/>
