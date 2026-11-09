@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480">
+<defs>
+<linearGradient id="bd" x1="0" x2="1"><stop offset="0" stop-color="#ff2e63"/><stop offset="1" stop-color="#08d9d6"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1f2b"/><stop offset="1" stop-color="#141821"/></linearGradient>
+<pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#000" opacity="0.12"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="478" rx="12" fill="#0b0e14" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H987 a12 12 0 0 1 12 12 V36 H1 Z" fill="url(#bar)"/>
+<line x1="1" y1="36" x2="999" y2="36" stroke="#21262d"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="500.0" y="23" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">ozay@userozays: ~ — zsh</text>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15">
+<clipPath id="cl0"><rect x="54" y="46" width="0" height="26"><animate attributeName="width" from="0" to="59.199999999999996" begin="0.40s" dur="0.40s" fill="freeze"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="0.40s" dur="0.01s" fill="freeze"/><text x="32" y="64" fill="#ff2e63" font-weight="700">❯</text><text x="54" y="64" fill="#e6edf3" clip-path="url(#cl0)" font-weight="600">whoami</text></g>
+<text x="32" y="88" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2">   /\_/\        </tspan><tspan fill="#ff2e63">ozay</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#08d9d6">userozays</tspan><animate attributeName="opacity" to="1" begin="1.05s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="112" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2">  ( -.- )       </tspan><tspan fill="#30363d">───────────────────────────</tspan><animate attributeName="opacity" to="1" begin="1.14s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="136" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2">   &gt; ^ &lt;        </tspan><tspan fill="#e6edf3">OS </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">macOS + Windows</tspan><animate attributeName="opacity" to="1" begin="1.23s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="160" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2">  /     \       </tspan><tspan fill="#e6edf3">Role </tspan><tspan fill="#484f58">....... </tspan><tspan fill="#ff2e63">human</tspan><animate attributeName="opacity" to="1" begin="1.32s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="184" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2"> (|  |  |)      </tspan><animate attributeName="opacity" to="1" begin="1.41s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="208" xml:space="preserve" opacity="0"><tspan fill="#ff7aa2">  (__|__)       </tspan><animate attributeName="opacity" to="1" begin="1.50s" dur="0.2s" fill="freeze"/></text>
+<clipPath id="cl8"><rect x="54" y="238" width="0" height="26"><animate attributeName="width" from="0" to="123.6" begin="1.59s" dur="0.75s" fill="freeze"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="1.59s" dur="0.01s" fill="freeze"/><text x="32" y="256" fill="#ff2e63" font-weight="700">❯</text><text x="54" y="256" fill="#e6edf3" clip-path="url(#cl8)" font-weight="600">ls ~/projects</text></g>
+<text x="32" y="280" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">itys/               </tspan><tspan fill="#c9d1d9">IT altyapı yönetimi · envanter · helpdesk · ping izleme</tspan><animate attributeName="opacity" to="1" begin="2.59s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="304" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">vault-pw-manager/   </tspan><tspan fill="#c9d1d9">yerel, şifreli parola yöneticisi (mac + win)</tspan><animate attributeName="opacity" to="1" begin="2.68s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="328" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">okami-finans/       </tspan><tspan fill="#c9d1d9">bildirimlerden beslenen kişisel finans paneli</tspan><animate attributeName="opacity" to="1" begin="2.77s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="352" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">pt-panel/           </tspan><tspan fill="#c9d1d9">personal trainer paket &amp; danışan paneli</tspan><animate attributeName="opacity" to="1" begin="2.86s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="376" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">easy-scan/          </tspan><tspan fill="#c9d1d9">windows için tek tık tarama programı</tspan><animate attributeName="opacity" to="1" begin="2.95s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="400" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">kurumsal-web/       </tspan><tspan fill="#c9d1d9">next.js + motion ile kurumsal siteler</tspan><animate attributeName="opacity" to="1" begin="3.04s" dur="0.2s" fill="freeze"/></text>
+<text x="32" y="424" xml:space="preserve" opacity="0"><tspan fill="#6e7681">drwxr-xr-x  </tspan><tspan fill="#08d9d6">calorie-tracker/    </tspan><tspan fill="#c9d1d9">kalori takip uygulaması</tspan><tspan fill="#ff2e63">  [public]</tspan><animate attributeName="opacity" to="1" begin="3.13s" dur="0.2s" fill="freeze"/></text>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="3.22s" dur="0.01s" fill="freeze"/><text x="32" y="448" fill="#ff2e63" font-weight="700">❯</text><rect x="54" y="433" width="10" height="19" fill="#08d9d6"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x="1" y="37" width="998" height="442" rx="12" fill="url(#scan)"/>
+</svg>

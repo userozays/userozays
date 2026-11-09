@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
+<defs><linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="344" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#ff2e63" stop-opacity="0.9"/><stop offset="0.5" stop-color="#08d9d6" stop-opacity="0.5"/><stop offset="1" stop-color="#08d9d6" stop-opacity="0"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="10" width="330" height="36" rx="8" fill="#0b0e14" stroke="#ff2e63" stroke-opacity="0.7"/>
+<text x="20" y="34" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700"><tspan fill="#ff2e63">❯ </tspan><tspan fill="#e6edf3">./snake --eat-contributions</tspan></text>
+<line x1="344" y1="28" x2="1000" y2="28" stroke="url(#ln)" stroke-width="2"/>
+<circle cx="344" cy="28" r="4" fill="#ff2e63" filter="url(#g)"><animate attributeName="cx" values="344;960;344" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.2;1" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
