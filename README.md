@@ -6,10 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF2E63&center=true&vCenter=true&width=620&lines=%3E+system.boot%28%22ozay%22%29;%3E+vibe_mode+%3D+ON+%F0%9F%8C%99" alt="typing"/>
 
-<img src="https://img.shields.io/badge/VIBE%20CODER-0d1117?style=flat-square&logo=probot&logoColor=FF2E63"/>
-<img src="https://img.shields.io/badge/IT%20SUPPORT-0d1117?style=flat-square&logo=windowsterminal&logoColor=08D9D6"/>
-<img src="https://img.shields.io/badge/QA-0d1117?style=flat-square&logo=bugatti&logoColor=FF2E63"/>
-<img src="https://komarev.com/ghpvc/?username=userozays&style=flat-square&color=FF2E63&label=VISITORS"/>
+<br/>
+
+<img src="https://img.shields.io/badge/VIBE%20CODER-FF2E63?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/IT%20SUPPORT-08D9D6?style=for-the-badge&logo=windowsterminal&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/QA-6E40C9?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=userozays&style=for-the-badge&color=FF2E63&label=VISITORS"/>
 
 </div>
 
