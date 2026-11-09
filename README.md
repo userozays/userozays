@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Hedef%20Ltd-IT%20Support-0ea5e9?style=for-the-badge&logo=serverfault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe%20Coder-AI%20Powered-0ea5e9?style=for-the-badge&logo=sparkfun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye-e11d48?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=userozays&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS"/>
 
@@ -20,7 +20,7 @@
 
 ```ts
 const ozay = {
-  rol:        ["IT Support @ Hedef Ltd", "Vibe Coder", "QA Tester"],
+  rol:        ["IT Support", "Vibe Coder", "QA Tester"],
   odak:       ["Kurumsal web siteleri", "İç araçlar & paneller", "IT altyapı yönetimi"],
   araçlar:    ["AI coding agent'ları", "Prompt", "Bol kahve"],
   stack:      ["Next.js", "TypeScript", "Tailwind", "Supabase", "Python/Flask", "C#"],
