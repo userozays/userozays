@@ -4,9 +4,6 @@
 
 Istanbul, Türkiye
 
-<a href="https://www.linkedin.com/in/%C3%B6zay-hilmi-eseciko%C4%9Flu-124427207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/userozays?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
-
 </div>
 
 ---
