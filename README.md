@@ -2,9 +2,7 @@
 
 # Özay Hilmi Esecikoğlu
 
-**Software Specialist · Junior DevOps Engineer**
-
-Hedef Technology Solutions · Istanbul, Türkiye
+Istanbul, Türkiye
 
 <a href="https://www.linkedin.com/in/%C3%B6zay-hilmi-eseciko%C4%9Flu-124427207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/userozays?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
@@ -15,7 +13,7 @@ Hedef Technology Solutions · Istanbul, Türkiye
 
 ### About
 
-I am a Software Specialist and Junior DevOps Engineer at Hedef Technology Solutions, working on IT infrastructure, internal tooling and deployment workflows. Alongside my role, I develop full-stack web applications and desktop tools as a freelance developer. I am currently studying Computer Programming at Anadolu University.
+I build full-stack web applications and desktop tools, and work on IT infrastructure, internal tooling and deployment workflows. I am currently studying Computer Programming at Anadolu University.
 
 ### Technical Skills
 
